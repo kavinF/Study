@@ -16,4 +16,12 @@ public class Sample {
 
 	}
 
+	private void kumar1() {
+		System.out.println("1");
+	}
+
+	private void kumar2() {
+		System.out.println("2");
+	}
+
 }
