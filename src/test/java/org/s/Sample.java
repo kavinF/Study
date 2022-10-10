@@ -23,5 +23,8 @@ public class Sample {
 	private void kumar2() {
 		System.out.println("2");
 	}
+	private void kumar3() {
+System.out.println("3");
+	}
 
 }
